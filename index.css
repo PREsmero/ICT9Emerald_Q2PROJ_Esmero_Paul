@@ -1,0 +1,108 @@
+body {
+       background-color:antiquewhite;
+       background-image: url("beautiful scenery 3.gif"); 
+       background-repeat:no-repeat;
+       background-size: 100% 175%;
+       background-position: top center;
+   }
+
+  
+
+
+  
+   
+  #top {
+    
+      color: whitesmoke; 
+      text-align:center; 
+      text-decoration:  overline; text-decoration-color: lightseagreen;
+font-style: normal;
+      font-family:open sans, sans-serif;
+      background-attachment: fixed;
+font-size: 50px;
+
+
+      }
+
+
+   #textone
+
+   {
+    color:antiquewhite;
+    background:darkslategray;
+    width:600px;
+    margin-top: 0px;
+    margin-right: 340px;
+    margin-bottom: 0px;
+    margin-left:340px;
+    font-size: 20px;
+    text-align: center;
+
+   }
+
+   #imageone
+   {color:antiquewhite;
+    background:darkslategray;
+    width:px;
+    margin-top: 0px;
+    margin-right: 450px;
+    margin-bottom: 0px;
+    margin-left:450px;
+    font-size: 10px;}
+
+    
+
+    #textboxone
+    {color:antiquewhite;
+    background:darkslategray;
+    width:200px;
+    margin-top: 10px;
+    margin-right: 400px;
+    margin-bottom: 10px;
+    margin-left:400px;
+    font-size: 20px;
+    text-align: center;}
+
+    #textboxtwo
+    {color:antiquewhite;
+    background:darkslategray;
+    width: 200px;
+    text-align: center;
+    margin-top: -495px;
+    margin-bottom:-495px;
+    margin-right: 675px;
+    margin-left: 675px;}
+
+#textboxthree
+    {color: antiquewhite;
+    background:darkslategray;
+    text-align: center;
+    width: 200px;
+    margin-top:110px;
+    margin-bottom: 110px;
+    margin-right:925px;
+    margin-left: 925px;}
+
+    #textboxfour
+{color: antiquewhite;
+    background:darkslategray;
+    text-align:center;
+    width: 200px;
+    margin-top:-520px;
+    margin-bottom:-520px;
+    margin-right:100px;
+margin-left:100px;
+    
+
+
+    
+
+    
+
+
+    
+
+
+    
+
+ 
